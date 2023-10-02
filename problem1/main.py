@@ -1,5 +1,5 @@
-# input
-nama = "Kobar"
+# Input
+nama = "Taufik"
 
-
-# kode disini
+# Kode Disini
+print("Hello",nama+"!" + "Saya Python bahasa yang sangat menyenangkan")

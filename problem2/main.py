@@ -1,6 +1,7 @@
-# input
-alas = 20.0
-tinggi = 25.0
+# Input 
+alas    = 20.0
+tinggi  = 25.0
 
 
-# kode disini
+# Kode Dsini
+print((alas * tinggi) / 2)
